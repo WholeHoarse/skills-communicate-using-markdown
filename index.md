@@ -6,3 +6,6 @@
 ``` python
 x = 1
 ```
+- [ ] Go through this exercise
+- [ ] Continue learning
+- [ ] Improve
